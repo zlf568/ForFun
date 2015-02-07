@@ -1,0 +1,2 @@
+# ForFun
+# some function test
